@@ -14,14 +14,21 @@ This project was motivated by the desire of the members of the group to have a w
 ### Features
 - User login: Users will be able to create accounts and log into the application. Each user will have a unique profile and map.
 - Create and edit logs: Users will be able to create new logs with a mixture of required (location, date) and optional fields (details, people traveled with, pictures, etc).
-- Group logs into trips: Users will be able to group a set of logs together into one trip (ex: a vacation to Europe may include logs in Italy, Spain, and France)
+- Group logs together into trips: Users will be able to group a set of logs together into one trip (ex: logs in Italy, Spain, and France may be grouped together into a trip of Europe)
 - View timeline of logs and trips: Users will be able to view a listing of all logs and trips, ordered by date (either most recent or least recent).
 - Search: Users will be able to search for logs containing given text. 
 - Delete logs: Users will be able to delete logs or trips. 
 
 ### Technologies
-Include Technologies here
+- JavaScript (front end)
+- Angular framework (front end)
+- Bootstrap (front end)
+- Java (back end)
+- MySQL (back end)
+- Thymeleaf templates (back end)
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Since the basis of the application is a map, we will have to learn about the Google Maps public API, specifically the Geocoding API.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/HSsqMrhN/digital-map-beenthere
