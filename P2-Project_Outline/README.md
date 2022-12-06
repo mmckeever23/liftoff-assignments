@@ -28,7 +28,7 @@ This project was motivated by the desire of the members of the group to have a w
 - Thymeleaf templates (back end)
 
 ### What I'll Have to Learn
-Since the basis of the application is a map, we will have to learn about the Google Maps public API, specifically the Geocoding API.
+Since the basis of the application is a map, we will have to learn about the Google Maps public API, specifically the Geocoding API. We will also have to learn how to upload images and text to the application.
 
 ### Project Tracker
 https://trello.com/b/HSsqMrhN/digital-map-beenthere
