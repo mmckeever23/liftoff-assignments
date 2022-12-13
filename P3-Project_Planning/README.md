@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Main Screen](./main_screen.png)
+![Main Screen](./Main_Screen.png)
 
 ### Project Tracker
 https://trello.com/b/HSsqMrhN/digital-map-beenthere
