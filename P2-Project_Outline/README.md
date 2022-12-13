@@ -16,6 +16,8 @@ RED:
 - Create and edit logs: Users will be able to create new logs with a mixture of required (location, date) and optional fields (details, people traveled with, pictures, etc).
 - User login/authentication: Users will be able to create accounts and log into the application. Each user will have a unique profile and map.
 - Delete logs: Users will be able to delete logs or trips.
+- Use cloud service to get images.
+- Use modal windows and keep map in background.
 
 YELLOW:
 - Shareable link: Users will be able to generate a shareable link to their map that can be shared with others.
@@ -24,7 +26,8 @@ YELLOW:
 - Search: Users will be able to search for logs containing given text. 
 
 GREEN:
-- Group logs together into trips: Users will be able to group a set of logs together into one trip (ex: logs in Italy, Spain, and France may be grouped together into a trip of Europe)
+- Group logs together into trips: Users will be able to group a set of logs together into one trip (ex: logs in Italy, Spain, and France may be grouped together into a trip of Europe).
+- Rich text editing
 
 ### Technologies
 - JavaScript (front end)
