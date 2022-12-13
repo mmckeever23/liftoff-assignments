@@ -10,6 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ![Main Screen](./Main_Screen.png)
 ![User Log In](./User_Log_In.png)
+![Shareable Link](./Shareable_Link.png)
 
 ### Project Tracker
 https://trello.com/b/HSsqMrhN/digital-map-beenthere
